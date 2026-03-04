@@ -121,7 +121,7 @@ from Alimentos
 SELECT *
 from Refeicoes
 
-    /*obter alimentos a partir do id da refeição*/
+-- obter alimentos a partir do id da refeição --
 SELECT A.nome,
     A.cal_100g,
     AR.quantidade,
